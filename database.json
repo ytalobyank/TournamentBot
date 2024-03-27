@@ -1,0 +1,22 @@
+[
+  {
+    "nome": "teste1",
+    "vitorias": 2,
+    "derrotas": 1
+  },
+  {
+    "nome": "teste2",
+    "vitorias": 1,
+    "derrotas": 2
+  },
+  {
+    "nome": "teste3",
+    "vitorias": 2,
+    "derrotas": 1
+  },
+  {
+    "nome": "teste4",
+    "vitorias": 1,
+    "derrotas": 2
+  }
+]
